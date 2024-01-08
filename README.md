@@ -1,4 +1,4 @@
-### Hi I'm Luis! Welcome to my Github.
+### Hi I'm Luis! Welcome to my Github. I'm a student at the University of California, Santa Barbara and an incoming software engineer intern at Salesforce
 
 ## Projects
 
